@@ -68,7 +68,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+$ git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
 $ cd Ikratos-MD-v1
 $ npm i 
 ```
@@ -105,13 +105,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & Ikratos-MD]
+[ INSTALLING NODEJS & ZEEDHAN-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -127,7 +127,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/xIKRATOSx/Ikratos-MD-v1
+git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
 cd Ikratos-MD-v1
 npm install
 npm update
