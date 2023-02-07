@@ -7,7 +7,7 @@
 
 > **Warning**: Don't Trade This Script
 
-<h1 align="center">Ikratos-MD-v1</h1>
+<h1 align="center">Z335H4N 4N54R!-MD-v1</h1>
 <p align="center">
   <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
@@ -21,7 +21,7 @@
 ---------
 
 ## ```Contact Me 💌``` 
-  <a href="https://wa.me/923470027813">
+  <a href="https://wa.me/923242711784">
     <img align="left" alt="SIEGRIN | Whastapp" width="26px" src="https://github.com/siegrin/siegrin/blob/main/Assets/Whatsapp.svg" />
   </a> &nbsp;&nbsp;
   <a href="mailto:bmclips001@gmail.com">
@@ -29,7 +29,7 @@
   </a> &nbsp;&nbsp;
 ---------
 
-[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923470027813) 
+[![BOT WHATSAPP](https://img.shields.io/badge/WhatsApp%20BOT-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)](https://wa.me/923242711784) 
 ---------
 
 ### a little about this bot
