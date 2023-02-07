@@ -232,7 +232,7 @@ global.fakefb = {
                "groupInviteMessage": {
                    "groupJid": "6285736178354-1625305606@g.us",
                    "inviteCode": "null",
-                   "groupName": "Kawan Elaina", 
+                   "groupName": "Kawan ZEESHAN", 
                    "caption": wm, 
                    'jpegThumbnail': fs.readFileSync('./thumbnail.jpg')
                }
