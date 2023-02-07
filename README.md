@@ -16,7 +16,7 @@
  <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/zeeshankhan032427"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/xIKRATOSx/Ikratos-MD-v1)](https://repl.it/github/xIKRATOSx/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/zeeshankhan032427/Ikratos-MD-v1)](https://repl.it/github/zeeshankhan032427/Ikratos-MD-v1)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
