@@ -1,5 +1,5 @@
 // Made By Aguz Familia/@FokusDotId (Fokus ID)
-//recode by xIKRATOSx
+//recode by xZ33SH1Nx
 
 import fs from 'fs'
 import fetch from 'node-fetch'
