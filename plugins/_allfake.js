@@ -74,7 +74,7 @@ handler.all = async function (m) {
 					description: wm3,
 					previewType: "PHOTO",
 					thumbnail: await (await fetch(pic)).buffer(),
-					sourceUrl: "https://github.com/xIKRATOSx"			
+					sourceUrl: "https://github.com/Z335H4N8"			
 				}
 			}
 		}
