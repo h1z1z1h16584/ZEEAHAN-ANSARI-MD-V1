@@ -1,4 +1,4 @@
-//code by Ahmad Ali
+//code by ZEESHN KING
 let handler = async (m, { conn, text, usedPrefix, command }) => {
 let regex = /x/g
 if (!text) throw '⚠️ Enter a number.'
