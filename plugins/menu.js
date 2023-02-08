@@ -301,8 +301,8 @@ let tek = `✧────···[ Dashboard ]···────✧
 │⬡ *${Object.entries(global.db.data.users).filter(user => user[1].banned).length}* User Banned
 ┬
 ├━━━━━━━━━━━━━━━━┈─⋆
-│ ▸ *ᴀᴜᴛʜᴏʀ :* Ahmad Ali
-┴ ▸ *ᴏᴡɴᴇʀ :* xIKRATOSx
+│ ▸ *ᴀᴜᴛʜᴏʀ :* 😡ᴢᴇᴇ$ʜᴀɴ/ᴀɴ$ᴀʀɪ👿
+┴ ▸ *ᴏᴡɴᴇʀ :* 👿ᴢᴇᴇ$ʜᴀɴ/ᴀɴ$ᴀʀɪ😡
 ✧
 ┬ 📌 𝗣𝗶𝗻𝗻𝗲𝗱 :
 │ Give me a break, SIS ^ω^
@@ -499,7 +499,7 @@ const listMessage = {
     let d6 = 'application/zip'
     let td = `${pickRandom([d1,d2,d3,d4,d5,d6])}`
     
-   //~~~Source : https://github.com/Rlxfly
+   //~~~Source : https://github.com/Z335H4N8
     //------- MENU LOCATION
     const pre = generateWAMessageFromContent(m.chat, { liveLocationMessage:{
   degreesLatitude: 34.672314,
@@ -531,7 +531,7 @@ const listMessage = {
                 {
                     urlButton: {
                         displayText: `${namebot}`,
-                        url: 'https://github.com/ImYanXiao/Elaina-MultiDevice'
+                        url: 'https://github.com/Z335H4N8'
                     }
                 },
                 {
