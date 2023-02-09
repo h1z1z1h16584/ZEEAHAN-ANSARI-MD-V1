@@ -1,5 +1,5 @@
 {
-    "name": "Elaina-BOT",
+    "name": "ᴢᴇᴇ$ʜᴀɴ-BOT",
     "version": "3.3.0",
     "description": "RPG BOT Whatsapp",
     "main": "index.js",
@@ -26,16 +26,16 @@
         "MD",
         "baileys-md"
     ],
-    "homepage": "https://github.com/ImYanXiao/Elaina-MultiDevice",
+    "homepage": "https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1",
     "author": {
-        "name": "ImYanXiao"
+        "name": "ᴢᴇᴇ$ʜᴀɴ"
     },
     "repository": {
         "type": "git",
-        "url": "git+https://github.com/ImYanXiao/Elaina-MultiDevice.git"
+        "url": "https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1"
     },
     "bugs": {
-        "url": "https://github.com/ImYanXiao/Elaina-MultiDevice/issues"
+        "url": "https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1"
     },
     "license": "GPL-3.0-or-later",
     "dependencies": {
