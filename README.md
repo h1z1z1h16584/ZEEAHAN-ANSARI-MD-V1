@@ -9,14 +9,14 @@
 
 <h1 align="center">Z335H4N 4N54R!-MD-v1</h1>
 <p align="center">
-  <a href="https://github.com/xIKRATOSx"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
+  <a href="https://github.com/Z335H4N8"><img src="http://readme-typing-svg.herokuapp.com?color=FFFFFF&center=true&vCenter=true&multiline=false&lines=Ikratks+BOT+Multi+Device;Base+ori+by+ImYanXiao;Recode+By+Ikratos;Give+star+and+forks+this+Repo+:D;Follow+My+Github" alt="ʘᴗʘ">
 </p>
 
 <p align="center">
  <a href="#"><img title="IkratosBOT" src="https://img.shields.io/badge/Whatshapp BOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/zeeshankhan032427"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/Z335H4N8"><img title="Author" src="https://img.shields.io/badge/AUTHOR-xIKRATOSx-green.svg?style=for-the-badge&logo=github"></a>
 
 ---------
 
@@ -60,7 +60,7 @@
 [![Deploy on Railway](https://railway.app/button.svg)](https://railway.app)
 
 ## ```USER REPLIT```
-[![Run on Repl.it](https://repl.it/badge/github/zeeshankhan032427/Ikratos-MD-v1)](https://repl.it/github/zeeshankhan032427/Ikratos-MD-v1)
+[![Run on Repl.it](https://repl.it/badge/github/Z335H4N8/Ikratos-MD-v1)](https://repl.it/github/Z335H4N8/Ikratos-MD-v1)
 ## TERMUX USER
 ```bash
 $ pkg upgrade && pkg update
@@ -68,7 +68,7 @@ $ pkg install git -y
 $ pkg install nodejs -y
 $ pkg install ffmpeg -y
 $ pkg install imagemagick -y
-$ git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
+$ git clone https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1
 $ cd Ikratos-MD-v1
 $ npm i 
 ```
@@ -105,13 +105,13 @@ apt install wget curl git ffmpeg imagemagick build-essential libcairo2-dev libpa
 
 ---------
 
-[ INSTALLING NODEJS & ZEEDHAN-MD]
+[ INSTALLING NODEJS & Z335H4N8-MD]
 
 ```bash
 ubuntu
 curl -fsSL https://deb.nodesource.com/setup_current.x | sudo -E bash -
 apt install -y nodejs gcc g++ make
-git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
+git clone https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -127,7 +127,7 @@ npm update
 * Download And Install ImageMagick [`Click Here`](https://imagemagick.org/script/download.php)
 
 ```bash
-git clone https://github.com/zeeshankhan032427/ZEEAHAN-ANSARI-MD-V1
+git clone https://github.com/Z335H4N8/ZEEAHAN-ANSARI-MD-V1
 cd Ikratos-MD-v1
 npm install
 npm update
@@ -221,7 +221,7 @@ conn.sendButton(m.chat, 'Hello world!', '@BochilGaming', 'https://github.com/Boc
 
 <h1 align="center">RECODED BY</h1>
 <p align="center">
-<a href="https://github.com/xIKRATOSx"><img src="https://github.com/xIKRATOSx.png" width="300" height="300" alt="xIKRATOSx"/></a>
+<a href="https://github.com/Z335H4N8"><img src="https://github.com/Z335H4N8.png" width="300" height="300" alt="Z335H4N8"/></a>
 </p>
 
 ----------
